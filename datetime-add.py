@@ -3,8 +3,8 @@ import shutil
 from datetime import datetime, timedelta
 import pyexiv2
 
-source_path = r"C:\Blauen\Projects\Photography\[34] SBAC NON SPORTS GAME 2024\Deliver\Pack 6"
-destination_path = r"C:\Blauen\Projects\Photography\[34] SBAC NON SPORTS GAME 2024\Deliver\Pack 6 (Timed)"
+source_path = r""
+destination_path = r""
 
 
 def get_original_date(file_path):
